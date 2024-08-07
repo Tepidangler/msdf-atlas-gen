@@ -1,0 +1,43 @@
+﻿  Charset.cpp
+  FontGeometry.cpp
+  GlyphGeometry.cpp
+  GridAtlasPacker.cpp
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\GridAtlasPacker.cpp(514,37): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Padding.cpp
+  RectanglePacker.cpp
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(70,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(71,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(77,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(78,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(110,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(111,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(116,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(117,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(124,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(125,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(133,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(134,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TightAtlasPacker.cpp
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\TightAtlasPacker.cpp(60,109): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\TightAtlasPacker.cpp(63,103): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\TightAtlasPacker.cpp(66,103): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\TightAtlasPacker.cpp(69,103): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\TightAtlasPacker.cpp(73,102): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\TightAtlasPacker.cpp(80,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Workload.cpp
+  artery-font-export.cpp
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\artery-font-format\artery-font\stdio-serialization.hpp(9,17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\artery-font-format\artery-font\stdio-serialization.hpp(13,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\msdf-atlas-gen\artery-font-export.cpp(85,99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  bitmap-blit.cpp
+  charset-parser.cpp
+  csv-export.cpp
+  glyph-generators.cpp
+  image-encode.cpp
+  json-export.cpp
+  main.cpp
+  shadron-preview-generator.cpp
+  size-selectors.cpp
+  utf8.cpp
+  Generating Code...
+  msdf-atlas-gen.vcxproj -> D:\AGE\AGE\Engine\libs\vendor\msdf-atlas-gen\bin\Release-windows-x86_64\msdf-atlas-gen\msdf-atlas-gen.lib
