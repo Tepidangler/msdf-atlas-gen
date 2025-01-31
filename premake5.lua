@@ -19,7 +19,7 @@ project "msdf-atlas-gen"
 	includedirs
 	{
 		"msdf-atlas-gen",
-		"./artery-font",
+		"./artery-font-format",
 		"../msdfgen",
 		"../msdfgen/include"
 	}
