@@ -84,7 +84,7 @@ else()
 endif()
 find_package(Threads REQUIRED)
 if(NOT MSDFGEN_DISABLE_PNG AND NOT TARGET PNG::PNG)
-    find_package(PNG REQUIRED)
+    #find_package(PNG REQUIRED)
 endif()
 
 file(GLOB_RECURSE MSDF_ATLAS_HEADERS RELATIVE ${CMAKE_CURRENT_SOURCE_DIR} "msdf-atlas-gen/*.h" "msdf-atlas-gen/*.hpp")
@@ -116,7 +116,7 @@ set_property(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT m
 target_compile_features(msdf-atlas-gen PUBLIC cxx_std_11)
 target_link_libraries(msdf-atlas-gen PRIVATE Threads::Threads)
 if(NOT MSDFGEN_DISABLE_PNG)
-    target_link_libraries(msdf-atlas-gen PRIVATE PNG::PNG)
+   # target_link_libraries(msdf-atlas-gen PRIVATE PNG::PNG)
 endif()
 target_link_libraries(msdf-atlas-gen PUBLIC msdfgen::msdfgen)
 
